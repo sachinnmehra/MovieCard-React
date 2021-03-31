@@ -1,0 +1,18 @@
+.cardDivInApp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.headingApp {
+    font-size: 42px;
+    text-align: center;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+}
+
+.headingV {
+    color: red;
+}

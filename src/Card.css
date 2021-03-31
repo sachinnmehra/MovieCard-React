@@ -1,0 +1,44 @@
+
+
+.cardMainDiv {
+    margin: 30px;    
+    width: 200px;
+}
+.cardMainDiv:hover{
+    cursor: pointer;
+    background-color: black;
+
+}
+.imageOfCard {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.hiddenItems{
+    visibility: hidden;
+}
+
+.imageOfCard:hover {
+    opacity: 0.2;
+}
+div .hiddenElements{
+    z-index: 2;
+    position: relative;
+    bottom: 150px;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    height: 0;
+}
+
+
+
+
+
+.cardSpan {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
